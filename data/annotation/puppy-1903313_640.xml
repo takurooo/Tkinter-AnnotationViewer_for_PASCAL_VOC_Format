@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotaion>
+	<filename>puppy-1903313_640</filename>
+	<size>
+		<depth>3</depth>
+		<width>640</width>
+		<height>426</height>
+	</size>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>90</ymin>
+			<xmax>466</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotaion>

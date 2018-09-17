@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotaion>
+	<filename>adorable-1850465_640</filename>
+	<size>
+		<depth>3</depth>
+		<width>640</width>
+		<height>426</height>
+	</size>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>51</ymin>
+			<xmax>460</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotaion>

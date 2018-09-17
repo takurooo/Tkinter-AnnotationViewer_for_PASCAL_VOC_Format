@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotaion>
+	<filename>pug-690566_640</filename>
+	<size>
+		<depth>3</depth>
+		<width>640</width>
+		<height>426</height>
+	</size>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>9</ymin>
+			<xmax>566</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotaion>
